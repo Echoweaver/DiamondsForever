@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DiamondsForever",
+  "name": "Diamonds Are Forever",
+  "description": "Diamonds can be an aphrodesiac, even for Villagers.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EchoWeaver"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
